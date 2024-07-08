@@ -2,7 +2,7 @@ How to do a code review on Github:
 
 1) Open up a branch
 2) Make code changes
-3) make a pull request
+3) Make a pull request
 4) on the right hand side, select the reviewer
 5) the reviewer will get a message, click request, go to "files" tab
 6) select lines, of shift select several ones, make code suggestions in the comment box
