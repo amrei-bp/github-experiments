@@ -11,3 +11,5 @@ How to do a code review on Github:
 9) the reviewers suggestion can go to the "files changed" tab and add the suggestions they agree with to a commit "add to batch"
 10) "add to commit", those commited suggestion can be incorporated via "git pull"
 11) comments can be addressed in the local branch
+
+    Voilà!
